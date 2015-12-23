@@ -1,13 +1,22 @@
 a
+<<<<<<< HEAD
 z6uiiz6iuzu
+=======
+xxxx
+>>>>>>> test_merge_branch
 a
 a
 b
+xxx
 b
 b
+<<<<<<< HEAD
 cvbcvbb
 
 cvbb
 cvb
 bvcc
 bv
+=======
+xxx
+>>>>>>> test_merge_branch
